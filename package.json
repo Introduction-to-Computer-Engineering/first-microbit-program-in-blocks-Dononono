@@ -1,0 +1,9 @@
+{
+  "name": "happy-and-sad-face-activity",
+  "version": "0.0.0",
+  "description": "Happy and Sad face activity",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
